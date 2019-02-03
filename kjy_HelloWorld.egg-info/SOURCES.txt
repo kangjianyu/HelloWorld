@@ -1,0 +1,5 @@
+setup.py
+kjy_HelloWorld.egg-info/PKG-INFO
+kjy_HelloWorld.egg-info/SOURCES.txt
+kjy_HelloWorld.egg-info/dependency_links.txt
+kjy_HelloWorld.egg-info/top_level.txt
