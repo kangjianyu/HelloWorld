@@ -6,3 +6,4 @@ class Dog_pip(object):
 
 new = Dog_pip()
 print(new.dog)
+print("wwwww")
