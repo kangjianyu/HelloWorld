@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#tag
 #get highest tag number
 VERSION=`git describe --abbrev=0 --tags`
 
